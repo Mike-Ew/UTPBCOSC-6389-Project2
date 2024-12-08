@@ -1,4 +1,2 @@
 # Ignore Python cache files in the src folder
 src/__pycache__/
-src/*.py[cod]
-src/*$py.class
